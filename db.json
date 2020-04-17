@@ -1,4 +1,5 @@
- [{
+ [
+   {
         "icon": "https://www.workshop.ws/wp-content/uploads/2018/08/ws-logo-sq.png",
         "text": "Mobile App and Website providing top quality educational Courses and Workshops. Available of the iOS App Store and Google Play Store.",
         "stack": ["react", "django", "gitlab", "aws"],
@@ -21,4 +22,5 @@
         "text": "Personal project to speed up startup development of signup/login pages using Django and React",
         "stack": ["react", "django", "python", "postgresql"],
         "link": "https://github.com/charliemday/signup"
-    }]
+    }
+ ]
