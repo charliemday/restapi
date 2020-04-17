@@ -1,11 +1,24 @@
-{
-  "posts": [
+ {
+        "icon": "https://www.workshop.ws/wp-content/uploads/2018/08/ws-logo-sq.png",
+        "text": "Mobile App and Website providing top quality educational Courses and Workshops. Available of the iOS App Store and Google Play Store.",
+        "stack": ["react", "django", "gitlab", "aws"],
+        "link": "https://www.workshop.ws"
+    },
     {
-      "id": 1,
-      "title": "hello"
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/MnistExamples.png/220px-MnistExamples.png",
+        "text": "2019 Masters project investigating GANs (Generative Adversarial Networks), a type of Neural Network architecture, to generate convincing novel content such as Music, Images, and Text",
+        "stack": ["python", "tensorflow", "keras"],
+        "link": "https://github.com/charliemday/Generative-Adversarial-Networks"
+    },
+    {
+        "icon": "https://cdn.proodlesolutions.com/wp-content/uploads/2019/05/PD-Logo.png",
+        "text": "React and React Native developer for Proodle Solutions, a startup located in Nottingham. Working with a Team on developing a University branded application for both mobile and web platform.",
+        "stack": ["react", "react-native", "github"],
+        "link": "https://www.nottingham.ac.uk/research/research-areas/energy-technologies/business-support/case-studies/proodle/proodlesolutions.aspx"
+    },
+    {
+        "icon": "https://github.com/charliemday/signup/blob/master/Images/Screenshot%202019-07-10%20at%2002.02.38.png?raw=true",
+        "text": "Personal project to speed up startup development of signup/login pages using Django and React",
+        "stack": ["react", "django", "python", "postgresql"],
+        "link": "https://github.com/charliemday/signup"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
