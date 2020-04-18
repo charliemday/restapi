@@ -26,5 +26,12 @@
         "text": "Personal project to speed up startup development of signup/login pages using Django and React",
         "stack": ["react", "django", "python", "postgresql"],
         "link": "https://github.com/charliemday/signup"
+    },
+    {
+       "title": "tinkerupdates",
+       "icon": "https://github.com/charliemday/restapi/blob/master/tinker-screenshot.png",
+       "text": "Successful projects are the result of incremental updates - share your proejct updates weekly!",
+       "stack": ["react", "django"],
+       "link": "https://festive-bassi-8c07ba.netlify.app/"
     }
  ]
