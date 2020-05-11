@@ -30,7 +30,7 @@
     {
        "title": "tinkerupdates",
        "icon": "https://github.com/charliemday/restapi/blob/master/tinker-screenshot.png?raw=true",
-       "text": "Successful projects are the result of incremental updates - share your proejct updates weekly!",
+       "text": "Successful projects are the result of incremental updates - share your project updates weekly!",
        "stack": ["react", "django"],
        "link": "https://festive-bassi-8c07ba.netlify.app/"
     }
